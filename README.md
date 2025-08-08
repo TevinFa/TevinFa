@@ -1,7 +1,8 @@
-<h1>Hi, I'm Tevin!</h1>
+<h1>Hi, I'm Tevin. Welcome to my Github! Nice to meet you. </h1>
 
 <h2>Certifications</h2>
-- CompTia Security + 0701
+- CompTia Security+ SY0-701 - July 2025 <br/>
+- HDI Support Center Analyst - July 2022
 
 
 <h2> 🤳 Connect with me:</h2>

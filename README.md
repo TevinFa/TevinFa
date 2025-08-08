@@ -12,7 +12,7 @@ https://www.linkedin.com/in/tevin-falkner-36aa7468/
 
 <h2> Personal Projects</h2>
 
-- [SetupKaliLinuxVM](https://github.com/TevinFa/SetupKaliLinuxVM)
+- [Setup Kali Linux Virtual Machine](https://github.com/TevinFa/SetupKaliLinuxVM)
 
 <!--
 

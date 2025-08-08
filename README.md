@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tevin</h1>
+<h1>Hi, I'm Tevin!</h1>
 
 <h2>Certifications</h2>
 - CompTia Security + 0701
@@ -12,7 +12,7 @@ https://www.linkedin.com/in/tevin-falkner-36aa7468/
 
 <h2> Personal Projects</h2>
 
-- [SetupKaliLinuxVM] (https://github.com/TevinFa/SetupKaliLinuxVM)
+- [SetupKaliLinuxVM](https://github.com/TevinFa/SetupKaliLinuxVM)
 
 <!--
 

@@ -15,7 +15,7 @@ https://www.linkedin.com/in/tevin-falkner-36aa7468/
 
 - [Setup Kali Linux Virtual Machine](https://github.com/TevinFa/SetupKaliLinuxVM)
 
-- Junior Sys Admin Linux home lab 
+- [Junior Sys Admin Linux home lab](https://github.com/TevinFa/Junior-Sys-Admin-Linux-home-lab)
 
 <!--
 
